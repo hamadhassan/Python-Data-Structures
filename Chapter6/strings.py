@@ -1,3 +1,7 @@
+print("Chapter-6")
+fruit='banana'
+letter=fruit[1];
+print(letter)
 str1 = "Hello"
 str2 = 'there'
 bob = str1 + str2
